@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "buspirate-lite-rgb-led-board") (type "KiCad") (uri "/home/rez0x61/Projects/electronic/bus-pirate/BusPirate5-hardware/bus_pirate_pcb/buspirate-rgb-led-board/buspirate-lite-rgb-led-board") (options "") (descr ""))
+)
