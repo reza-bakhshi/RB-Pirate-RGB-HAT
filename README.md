@@ -20,6 +20,20 @@ The HAT is completely optional. RB-Pirate remains fully functional without it,
 so the expansion can be installed only when visual feedback or a physical
 button is useful.
 
+## Start here
+
+This repository contains the KiCad hardware design. Open [RB-Pirate-RGB-HAT.kicad_pro](RB-Pirate-RGB-HAT.kicad_pro) to inspect the schematic and PCB together.
+
+| Resource | Contents |
+|---|---|
+| [RB-Pirate-RGB-HAT.kicad_sch](RB-Pirate-RGB-HAT.kicad_sch) | Schematic entry point |
+| [RB-Pirate-RGB-HAT.kicad_pcb](RB-Pirate-RGB-HAT.kicad_pcb) | PCB layout |
+| [img](img) | Board renders |
+| [RB-Pirate hardware](https://github.com/reza-bakhshi/RB-Pirate) | Base board and hardware connections |
+| [RB-Pirate firmware](https://github.com/reza-bakhshi/RB-Pirate-Firmware) | HAT control and integration |
+
+Open the base-board and HAT schematics together before connecting the boards. Firmware controls which animations and button actions are available.
+
 ## PCB gallery
 
 <table>
